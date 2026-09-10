@@ -27,7 +27,7 @@ public class main {
         System.out.println("Digite seu nome: ");
         String nome = scanner.nextLine();
 
-        System.out.println("olá Sr(a). " + nome + " Qual serviço você deseja orçamentar?\n1 - Limpeza & Preventiva\n2 - Manutenção\n 3 - Peças\n (*digite o número referente ao serviço");
+        System.out.println("olá Sr(a). " + nome + " Qual serviço você deseja orçamentar?\n1 - Limpeza & Preventiva\n2 - Manutenção\n(*digite o número referente ao serviço");
         String servico = scanner.nextLine();
 
         switch (servico) {
@@ -76,10 +76,6 @@ public class main {
                 }
 
                 break;
-
-
-
-            case "3":
 
         }
 
