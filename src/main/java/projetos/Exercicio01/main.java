@@ -1,9 +1,8 @@
-package projetos.exercicio01;
+package projetos.Exercicio01;
 
 import java.util.Scanner;
-import projetos.exercicio01.valores.*;
 
-import static projetos.exercicio01.valores.*;
+import static projetos.Exercicio01.valores.*;
 
 public class main {
 

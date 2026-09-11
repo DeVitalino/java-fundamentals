@@ -1,4 +1,4 @@
-package projetos.exercicio01;
+package projetos.Exercicio01;
 
 public class valores {
 
